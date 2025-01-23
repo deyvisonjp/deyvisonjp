@@ -6,7 +6,7 @@ Sou Deyvison J. Paula, um desenvolvedor apaixonado por criar aplicações web di
 
 ### Sobre Mim
 
-Baseado em Minas Gerais, atualmente trabalho na Living and Learning. Adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
+Atualmente trabalhando com Azure e Aplicações .net e angukar, adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
 
 ### Habilidades & Tecnologias
 
@@ -29,23 +29,7 @@ Baseado em Minas Gerais, atualmente trabalho na Living and Learning. Adoro apren
 - Fez push de mudanças para formacao-angular
 - Começou a assistir angular-memoteca-alura
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-
-</div>
-
-###
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/deyvisonjpaula/" target="_blank">
