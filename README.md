@@ -6,7 +6,7 @@ Sou Deyvison J. Paula, um desenvolvedor apaixonado por criar aplicações web di
 
 ### Sobre Mim
 
-Atualmente trabalhando com Azure e Aplicações .net e angukar, adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
+Atualmente trabalhando com Azure e Aplicações .net e angular, adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
 
 ### Habilidades & Tecnologias
 
@@ -31,7 +31,7 @@ Atualmente trabalhando com Azure e Aplicações .net e angukar, adoro aprender n
 
 ### Contato
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/deyvisonjpaula/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
