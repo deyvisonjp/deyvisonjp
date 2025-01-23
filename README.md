@@ -1,8 +1,35 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deyvisonjp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+## Olá! 👋
+
+Sou Deyvison J. Paula, um desenvolvedor apaixonado por criar aplicações web dinâmicas. Minha jornada na tecnologia é movida pela curiosidade e pelo amor à programação, com foco no desenvolvimento Full Stack.
+
+### Sobre Mim
+
+Baseado em Minas Gerais, atualmente trabalho na Living and Learning. Adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
+
+### Habilidades & Tecnologias
+
+- **Linguagens:** C#, JavaScript, Java...
+- **Frameworks:** Angular, React, Node.js...
+- **Cloud:** AWS, Azure, GCP...
+- **Ferramentas:** Docker, Git, VSCode...
+
+### Estatísticas do GitHub
+
+- **Repositórios Públicos:** 78
+- **Seguidores:** 7
+- **Seguindo:** 11
+
+### Atividade Recente
+
+- Atualizou o README.md de deyvisonjp
+- Fez push de mudanças para dev-azure-dynamics
+- Criou um novo repositório para deyvisonjp
+- Fez push de mudanças para formacao-angular
+- Começou a assistir angular-memoteca-alura
+
+### Últimos Posts no Blog
 
 ###
 
