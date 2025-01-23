@@ -29,8 +29,6 @@ Baseado em Minas Gerais, atualmente trabalho na Living and Learning. Adoro apren
 - Fez push de mudanças para formacao-angular
 - Começou a assistir angular-memoteca-alura
 
-### Últimos Posts no Blog
-
 ###
 
 <div align="center">
@@ -44,9 +42,7 @@ Baseado em Minas Gerais, atualmente trabalho na Living and Learning. Adoro apren
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
 </div>
 
 ###
