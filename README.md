@@ -2,7 +2,7 @@
 
 ## Olá! 👋
 
-Sou Deyvison J. Paula, um desenvolvedor apaixonado por criar aplicações web dinâmicas. Minha jornada na tecnologia é movida pela curiosidade e pelo amor à programação, com foco no desenvolvimento Full Stack.
+Sou Deyvison, um desenvolvedor apaixonado por criar aplicações. Minha jornada na tecnologia é movida pela curiosidade e pelo love à programação, tenho focado na carreira de desenvolvimento Full Stack.
 
 ### Sobre Mim
 
