@@ -2,11 +2,11 @@
 
 ## Olá! 👋
 
-Sou Deyvison, um desenvolvedor apaixonado por criar aplicações. Minha jornada na tecnologia é movida pela curiosidade e pelo love à programação, tenho focado na carreira de desenvolvimento Full Stack.
+Eu sou Deyvison, um desenvolvedor Full Stack que já explorou diversas áreas da tecnologia em um curto período de tempo. Minha jornada é impulsionada pela curiosidade e pela paixão pela programação. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 ### Sobre Mim
 
-Atualmente trabalhando com Azure e Aplicações .net e angular, adoro aprender novas tecnologias e aprimorar minhas habilidades, especialmente em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
+Atualmente, trabalho com Azure, Dynamics, Power Automate e aplicações C#. Paralelamente, estudo e crio meus projetos pessoais e acadêmicos Full Stack com .NET e Angular. Gosto de aprender novas tecnologias e aprimorar minhas habilidades. Já tive experiências em desenvolvimento Full Stack usando C#, JavaScript, Java, Angular e React.
 
 ### Habilidades & Tecnologias
 
